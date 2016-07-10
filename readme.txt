@@ -4,4 +4,4 @@ Git is a distributed version control system.
 Git has a mutable index called stage.
 git statge:
 add dev`fsdfsf:q
-new dev
+new ev
